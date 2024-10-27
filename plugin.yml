@@ -1,0 +1,8 @@
+---
+name: PluginDelegate
+version: 0.0.1
+main: Echore\PluginDelegate\Main
+api: 5.20.0
+src-namespace-prefix: Echore\PluginDelegate
+load: startup
+...
